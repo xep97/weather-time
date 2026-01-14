@@ -1,0 +1,24 @@
+.city-search {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.city-search input {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+.city-search button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+}
